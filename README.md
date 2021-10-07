@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**emily0622/emily0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # About Me
 -University of Toronto Engineering Science student majoring in Machine Intelligence and minoring in Business
 -Seeking a 4/12/16 month internship starting in the Summer of 2022
