@@ -13,15 +13,15 @@
 # Currently working on:
 ## Engineering Store
 
--Fullstack development on a popular e-commerce website called (Engineering Stores)[https://stores.skule.ca/]
+Fullstack development on a popular e-commerce website called (Engineering Stores)[https://stores.skule.ca/]
 
 
 ## Statistical Plotting and Sharing Website
 
--Fullstack development personal project that generates, saves, and shares box and whiskers plots (more statistical plots coming soon) called (Whiskers Plots)[http://whiskers-plots.herokuapp.com/]
+Fullstack development personal project that generates, saves, and shares box and whiskers plots (more statistical plots coming soon) called (Whiskers Plots)[http://whiskers-plots.herokuapp.com/]
 
 
-##Current Courses
+## Current Courses
 
 -ECE421 Intro to Machine Learning
 
