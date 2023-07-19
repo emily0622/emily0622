@@ -1,5 +1,5 @@
 # About Me 
-- University of Toronto Engineering Science student majoring in Machine Intelligence and minoring in Business
+- BASc Engineering Science, Major in Machine Intelligence, University of Toronto
 
 - Seeking a full time software job
 
